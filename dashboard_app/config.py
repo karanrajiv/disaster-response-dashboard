@@ -1,0 +1,1 @@
+# Placeholder for environment/config variables (expandable)
